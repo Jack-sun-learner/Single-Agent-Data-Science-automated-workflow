@@ -1,6 +1,6 @@
 # Single-Agent Tool-Based ML Demo
 
-This demo is a redesigned version of the earlier Capstone workflow. The previous demo relied more heavily on LLM-generated scripts for each data science stage. This version uses a clearer structure: the LLM helps with planning, target/task inference, tuning guidance, and business reporting, while deterministic Python tools execute data intake, cleaning, EDA, feature engineering, model training, and validation.
+This demo uses a clearer structure: the LLM helps with planning, target/task inference, tuning guidance, and business reporting, while deterministic Python tools execute data intake, cleaning, EDA, feature engineering, model training, and validation.
 
 The goal is to make the workflow more stable, auditable, and easier to debug.
 
